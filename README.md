@@ -19,6 +19,7 @@ Moro na capital do ceará.
 <a href="https://www.linkedin.com/in/denisio-emanuel" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
 
+<!--
 ### Estastíticas
 <div>
   <a href="https://github.com/denisiorodrigues">
@@ -26,7 +27,6 @@ Moro na capital do ceará.
   <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=denisiorodrigues&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-<!--
 Sites utilizados pra criar.
 https://devicon.dev/
 https://shields.io/badges/mastodon-follow
